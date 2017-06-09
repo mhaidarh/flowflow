@@ -1,5 +1,9 @@
 # Specifications
 
+```
+Version: 0.1.0
+```
+
 Here are the initial valuable features of FlowFlow.
 
 1. First
